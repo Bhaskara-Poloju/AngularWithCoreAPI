@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/API-DotNetCore/API-DotNetCore/.vs/API-DotNetCore/v17
+/.vs
+/API-DotNetCore/API-DotNetCore/API-DotNetCore/obj
+/API-DotNetCore/API-DotNetCore/.vs/API-DotNetCore
+/API-DotNetCore/API-DotNetCore/API-DotNetCore/bin/Debug/net8.0
